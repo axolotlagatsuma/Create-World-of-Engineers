@@ -1,0 +1,8 @@
+{
+	chapter_groups: [
+		{ id: "5258E1F06CA048F0", title: "{category.2}" }
+		{ id: "5FD568F65767FA75", title: "{category.3}" }
+		{ id: "6A77EA01F3220A84", title: "{category.4}" }
+		{ id: "5C167260A3C45934", title: "{category.5}" }
+	]
+}
